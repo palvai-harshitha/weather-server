@@ -1,0 +1,32 @@
+h1 {
+  text-align: center;
+}
+
+body {
+  background-color: rgb(240, 240, 190);
+}
+
+form {
+  text-align: center;
+}
+
+footer {
+  position: absolute;
+  bottom: 0%;
+  right: 0%;
+}
+
+img {
+  width: 250px;
+}
+p {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 50;
+  background: rgb(242, 241, 241);
+  height: auto;
+  width: 100vw;
+  padding-top: 40px;
+  color: rgb(2, 2, 2);
+}

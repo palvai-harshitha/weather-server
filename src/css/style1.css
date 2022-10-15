@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+  color: beige;
+}
+
+body {
+  background-color: rgb(5, 5, 5);
+}
+h2 {
+  text-align: center;
+  color: rgb(23, 197, 162);
+  font-size: 20px;
+}
+p {
+  text-align: center;
+  font-size: 15px;
+  color: rgb(242, 245, 248);
+}
+footer {
+  position: absolute;
+  bottom: 2%;
+  right: 15px;
+  text-align: right;
+  background: rgb(4, 4, 4);
+  color: bisque;
+  height: auto;
+  width: 100vw;
+  padding-top: 40px;
+}
